@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rashidsharif.github.io/YouTube_Clone/static/css/main.7064deb2.css",
+    "main.js": "/rashidsharif.github.io/YouTube_Clone/static/js/main.15f56ea7.js",
+    "index.html": "/rashidsharif.github.io/YouTube_Clone/index.html",
+    "main.7064deb2.css.map": "/rashidsharif.github.io/YouTube_Clone/static/css/main.7064deb2.css.map",
+    "main.15f56ea7.js.map": "/rashidsharif.github.io/YouTube_Clone/static/js/main.15f56ea7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.15f56ea7.js"
+  ]
+}
